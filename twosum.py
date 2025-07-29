@@ -1,3 +1,10 @@
+
+# m rewritting this
+
+# toneeeee
+
+# and a third one
+
 class Solution(object):
     def twoSum(self, nums, target):
         numMap = {}
@@ -16,3 +23,4 @@ nums = [2, 7, 11, 15]
 target = 9
 result = sol.twoSum(nums, target)
 print(result)
+
