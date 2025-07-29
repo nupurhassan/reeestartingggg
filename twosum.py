@@ -1,7 +1,7 @@
 
-# this is some python comments
+# m rewritting this
 
-# this is another one
+# toneeeee
 
 # and a third one
 
@@ -10,6 +10,7 @@ class Solution(object):
         numMap = {}
         for i, num in enumerate(nums):
             numMap[num] = i
+            #comment nupur v1 check
         for i, num in enumerate(nums):
             complement = target - num
             if complement in numMap and numMap[complement] != i:
